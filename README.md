@@ -5,10 +5,10 @@ En este enlace podrás encontrar el PDF con el enunciado del ejercicio:
 [PROYECTO](/assets/WD-BC2-FILMS.pdf)
 
 Aquí puedes encontrar el diseño:
-[https://www.figma.com/community/file/1194584289228773152](https://www.figma.com/community/file/1194584289228773152)
+<https://www.figma.com/community/file/1194584289228773152>
 
 Y la documentación de la API:
-[https://developers.themoviedb.org/3/getting-started/introduction](https://developers.themoviedb.org/3/getting-started/introduction)
+<https://developers.themoviedb.org/3/getting-started/introduction>
 
 Si lo deseas, puedes consultar el enunciado aquí en imágenes, aunque los links no te funcionarán:
 
